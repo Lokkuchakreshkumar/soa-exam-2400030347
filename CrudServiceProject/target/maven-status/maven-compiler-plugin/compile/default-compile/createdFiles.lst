@@ -1,0 +1,8 @@
+com/klef/soa/exam/service/FoodTruckServiceImpl.class
+com/klef/soa/exam/configuration/SwaggerConfig.class
+com/klef/soa/exam/controller/FoodTruckController.class
+com/klef/soa/exam/repository/FoodTruckRepository.class
+com/klef/soa/exam/entity/FoodTruckEntity$FoodTruckEntityBuilder.class
+com/klef/soa/exam/entity/FoodTruckEntity.class
+com/klef/soa/exam/service/FoodTruckService.class
+com/klef/soa/exam/CrudServiceProjectApplication.class

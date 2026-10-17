@@ -1,0 +1,7 @@
+/home/chakresh/Documents/EXAMWORKSPACE/CrudServiceProject/src/main/java/com/klef/soa/exam/CrudServiceProjectApplication.java
+/home/chakresh/Documents/EXAMWORKSPACE/CrudServiceProject/src/main/java/com/klef/soa/exam/configuration/SwaggerConfig.java
+/home/chakresh/Documents/EXAMWORKSPACE/CrudServiceProject/src/main/java/com/klef/soa/exam/controller/FoodTruckController.java
+/home/chakresh/Documents/EXAMWORKSPACE/CrudServiceProject/src/main/java/com/klef/soa/exam/entity/FoodTruckEntity.java
+/home/chakresh/Documents/EXAMWORKSPACE/CrudServiceProject/src/main/java/com/klef/soa/exam/repository/FoodTruckRepository.java
+/home/chakresh/Documents/EXAMWORKSPACE/CrudServiceProject/src/main/java/com/klef/soa/exam/service/FoodTruckService.java
+/home/chakresh/Documents/EXAMWORKSPACE/CrudServiceProject/src/main/java/com/klef/soa/exam/service/FoodTruckServiceImpl.java
